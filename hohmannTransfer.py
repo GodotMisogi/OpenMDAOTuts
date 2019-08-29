@@ -1,0 +1,1 @@
+class VCircComp(om.ExplicitComponent):
